@@ -1,0 +1,1 @@
+enum Plantype {nuclear, wind, water};
